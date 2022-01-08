@@ -1,0 +1,38 @@
+{
+    "name": "r2",
+    "group": "Kattis",
+    "url": "https://open.kattis.com/problems/r2",
+    "interactive": false,
+    "memoryLimit": 1024,
+    "timeLimit": 1000,
+    "tests": [
+        {
+            "input": "11 15\n",
+            "output": "19\n",
+            "id": 1641654426728
+        },
+        {
+            "id": 1641654426813,
+            "input": "4 3",
+            "output": "2"
+        }
+    ],
+    "testType": "single",
+    "input": {
+        "type": "stdin"
+    },
+    "output": {
+        "type": "stdout"
+    },
+    "languages": {
+        "java": {
+            "mainClass": "Main",
+            "taskClass": "R2"
+        }
+    },
+    "batch": {
+        "id": "a68a32b6-964b-4df1-afc8-70088f2685be",
+        "size": 1
+    },
+    "srcPath": "/Users/akinsella/Workspace/Projects/Kattis/kattis-python/r2.py"
+}
